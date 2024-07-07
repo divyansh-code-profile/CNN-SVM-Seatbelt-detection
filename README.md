@@ -9,7 +9,7 @@ Seat belt detection is essential in transportation systems to reduce accidents. 
 # To run the code upload the dataset and the code to the google drive, open the code in google colab and set paths accordingly in the code.
 
 # Paper Citation -
-'''
+```
 @INPROCEEDINGS{10545852,
   author={Singh, Lavdeep and Chaurasia, Divyansh and Tiwari, Naveen Kumar and Upaddhyay, Vipin and Bajpai, Abhishek},
   booktitle={2024 IEEE 13th International Conference on Communication Systems and Network Technologies (CSNT)}, 
@@ -20,4 +20,4 @@ Seat belt detection is essential in transportation systems to reduce accidents. 
   pages={898-904},
   keywords={Support vector machines;Convolution;Belts;Feature extraction;Vectors;Safety;Convolutional neural networks;Hybrid CNN-SVM model;Deep Neural Net- work;Support Vector Machine;Binary classifier;confusion matrix},
   doi={10.1109/CSNT60213.2024.10545852}}
-'''
+```
